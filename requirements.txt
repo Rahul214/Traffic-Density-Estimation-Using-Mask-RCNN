@@ -2,6 +2,8 @@ numpy
 scipy==1.2.0
 Pillow
 cython
+tensorflow==1.15.0
+keras==2.1.6
 matplotlib
 scikit-image
 opencv-python
