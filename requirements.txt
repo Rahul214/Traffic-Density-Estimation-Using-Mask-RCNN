@@ -1,0 +1,9 @@
+numpy
+scipy==1.2.0
+Pillow
+cython
+matplotlib
+scikit-image
+opencv-python
+imgaug
+IPython[all]
